@@ -132,10 +132,10 @@ promptUser()
     .then(function (answers) {
         const README = generateREADME(answers);
 
-        return writeFileAsync('README.md', README);
+        return writeFileAsync('sampleREADME.md', README);
     })
     .then(function () {
-        console.log("README.md has been created!");
+        console.log("sampleREADME.md has been created!");
     })
     .catch(function (err) {
         console.log(err);
