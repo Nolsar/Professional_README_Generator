@@ -10,7 +10,7 @@ Using 100% JSON and Node Package Manager using the package Inquirer, a command-l
 
 ## Usage 
 Brief demonstration on how to use the application.
-[![usage video](https://drive.google.com/file/d/1B-WyN3yodvU2ff5dlAbWBvo-F7SFe34f/view)
+[Click for demonstration.](https://drive.google.com/file/d/1B-WyN3yodvU2ff5dlAbWBvo-F7SFe34f/view?usp=sharing)
 
 
 A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
