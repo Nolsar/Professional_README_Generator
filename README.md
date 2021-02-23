@@ -9,8 +9,8 @@ When creating an open source project on GitHub, it is important to have a qualit
 Using 100% JSON and Node Package Manager using the package Inquirer, a command-line application will allow for quick and easy generation of a project README to get started quickly. Once the user has inputed their responser, it will write the the README file. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
 ## Usage 
-<!-- screnncastify -->
-<!-- [![usage video](readme-generator-tutorial.gif)](https://drive.google.com/file/d/1S11bCuwkcpm8KrDXaqcMQJ82nAFb9-Tv/view?usp=sharing "Click Me!") -->
+Brief demonstration on how to use the application.
+[![usage video](https://drive.google.com/file/d/1B-WyN3yodvU2ff5dlAbWBvo-F7SFe34f/view)
 
 
 A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
@@ -24,7 +24,9 @@ Contributions are accepted. Feel free to fork.
 Answer all questions and check the returned inputs.
 
 ## Screenshots of working Generator
-<!-- <img src="./myimage.jpg"> -->
+<img src="./assets\Screenshot of Command Line.jpg">
+<img src="./assets\screenshotOfGeneratedREADME.jpg">
+
 
 ### License
 MIT License
